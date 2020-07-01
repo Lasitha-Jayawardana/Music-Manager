@@ -1,0 +1,17 @@
+Line 20: Class MBBrowse.BrowseFF of control b was not a loaded control class.
+Line 49: Class XtremeSuiteControls.PushButton of control PushButton2 was not a loaded control class.
+Line 62: Class XtremeSuiteControls.PushButton of control PushButton1 was not a loaded control class.
+Line 23: The property name _ExtentX in b is invalid.
+Line 24: The property name _ExtentY in b is invalid.
+Line 55: The property name _Version in PushButton2 is invalid.
+Line 56: The property name _ExtentX in PushButton2 is invalid.
+Line 57: The property name _ExtentY in PushButton2 is invalid.
+Line 58: The property name _StockProps in PushButton2 is invalid.
+Line 59: The property name Caption in PushButton2 is invalid.
+Line 60: The property name UseVisualStyle in PushButton2 is invalid.
+Line 68: The property name _Version in PushButton1 is invalid.
+Line 69: The property name _ExtentX in PushButton1 is invalid.
+Line 70: The property name _ExtentY in PushButton1 is invalid.
+Line 71: The property name _StockProps in PushButton1 is invalid.
+Line 72: The property name Caption in PushButton1 is invalid.
+Line 73: The property name UseVisualStyle in PushButton1 is invalid.
